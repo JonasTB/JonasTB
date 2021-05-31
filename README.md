@@ -1,4 +1,6 @@
 ## Opa, beleza?! Eu sou Jonas Timbaúba 🤠🖖🏽
+## Oops, okay?! I'm Jonas Timbaúba 🤠🖖🏽
+
 <p> Faço Ciência da Computação na Unifor - Universidade de Fortaleza, sou apaixonado por back-end, séries e uns jogos ai! <p>
  <div>
   <a href="https://github.com/JonasTB">
