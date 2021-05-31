@@ -1,4 +1,5 @@
 ## Opa, beleza?! Eu sou Jonas Timbaúba 🤠🖖🏽
+<p> Faço Ciência da Computação na Unifor - Universidade de Fortaleza, sou apaixonado por back-end, séries e uns jogos ai! <p>
  <div>
   <a href="https://github.com/JonasTB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasTB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
