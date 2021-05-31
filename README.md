@@ -1,4 +1,4 @@
-## Opa, bele?! Eu sou Jonas Timbaúba 
+## Opa, beleza?! Eu sou Jonas Timbaúba 
  <div>
   <a href="https://github.com/JonasTB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasTB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
