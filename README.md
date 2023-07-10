@@ -1,7 +1,7 @@
 ## Opa, beleza?! Eu sou Jonas Timbaúba 🤠🖖🏽 / Oops, okay?! I'm Jonas Timbaúba 🤠🖖🏽
 
-<p> Faço Ciência da Computação na Unifor - Universidade de Fortaleza, sou apaixonado por back-end, séries e uns jogos ai! <p>
-<p> I do Computer Science at Unifor - Universidade de Fortaleza, I'm passionate about back-end, series and games! <p>
+<p> Sou formado em Ciência da Computação, sou programador fullstack, gosto bastante de séries, audiovisual e alguns jogos. 😉 <p>
+<p> I have a degree in Computer Science, I'm a full stack programmer, I really like series, audiovisual and some games. 😉 <p>
  <div>
   <a href="https://github.com/JonasTB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasTB&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
