@@ -1,10 +1,10 @@
 ## Eu sou Jonas Timbaúba 🤠🖖🏽 / I'm Jonas Timbaúba 🤠🖖🏽
 
 <p> Olá! Sou um programador full stack formado em Ciência da Computação pela Universidade de Fortaleza (Unifor). Estou animado em compartilhar meu trabalho e projetos com você aqui no GitHub. 😉 <p>
-<p> Tenho paixão pela área de tecnologia, especialmente desenvolvimento de software e programação web. Durante minha graduação, adquiri conhecimentos sólidos em backend, frontend, mobile e devops, me especializei como programador full stack. <p>
+<p> Tenho paixão pela área de tecnologia, especialmente desenvolvimento de software e programação web. Durante minha graduação, adquiri conhecimentos sólidos em backend, frontend, mobile e devops, me especializei como desenvolvedor full stack. <p>
 
 <p> Hello! I'm a full stack programmer with a degree in Computer Science from the University of Fortaleza (Unifor). I'm excited to share my work and projects with you here on GitHub. 😉 </p>
-<p> I have a passion for the field of technology, especially software development and web programming. During my graduation, I gained solid knowledge in backend, frontend, mobile, and devops, specializing as a full stack programmer. </p>
+<p> I have a passion for the field of technology, especially software development and web programming. During my graduation, I gained solid knowledge in backend, frontend, mobile, and devops, specializing as a full stack developer </p>
 
 <h2>Meus contatos / My contacts</h2>
 <div>
