@@ -34,7 +34,7 @@ I have a passion for technology, especially software development and web program
 ## 🧠 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasTB&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasTB&show_icons=true&theme=omni&include_all_commits=true&count_private=true&v=1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasTB&layout=compact&langs_count=16&theme=omni"/>
 </div>
 
